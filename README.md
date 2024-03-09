@@ -19,3 +19,5 @@ Welcome to the Professional Networking Platform, a full-stack application integr
   - Keep users informed about potential job matches, examination results, and other relevant activities.
 
 let's decrease the time for hr. give the correct candadite to hr :)
+
+let's decrese the time to fresher he will develop his own skills auto update with ai enhancing 
