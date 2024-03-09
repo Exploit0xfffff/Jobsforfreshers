@@ -18,4 +18,4 @@ Welcome to the Professional Networking Platform, a full-stack application integr
 - **Notification System:**
   - Keep users informed about potential job matches, examination results, and other relevant activities.
 
-let's decrease the time for hr's automate our skills to ai 
+let's decrease the time for hr. give the correct candadite to hr :)
